@@ -1,5 +1,5 @@
 # Modelling Air Pollution
-_Modelling Air Pollution using statistical, ML and DL models.
+_Modelling Air Pollution using statistical, ML and DL models._
 
 Air pollution cause massive damages to life with several pulmonary ailments. 
 Thus, it is important to monitor air pollution levels in the atmosphere.
